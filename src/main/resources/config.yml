@@ -1,0 +1,5 @@
+config:
+  minas-server-name: "minas"
+  villa-server-name: "villa"
+  debug-mode: true
+  enable-login_event: false

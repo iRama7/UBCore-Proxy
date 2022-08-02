@@ -1,0 +1,4 @@
+name: UBCoreBungee
+version: '${project.version}'
+main: rama.ubcproxy.ubcorebungee.UBCoreBungee
+description: Core plugin for UnBloque
